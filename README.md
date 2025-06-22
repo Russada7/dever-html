@@ -5,7 +5,7 @@ Esse projeto é um site criado com HTML e CSS, inspirado diretamente em uma das 
 
 o Projeto:
 
-A proposta foi reproduzir visualmente o estilo da Steam, com foco especial em uma aba de jogo — mais especificamente a do **CS2, um jogo de FPS muito popular. O layout inclui:
+A proposta foi reproduzir visualmente o estilo da Steam, com foco especial em uma aba de jogo — mais especificamente a do CS2, um jogo de FPS muito popular. O layout inclui:
 
  Cabeçalho escuro com logo e menu de navegação
  Menu superior com botões interativos
